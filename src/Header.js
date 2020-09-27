@@ -45,7 +45,7 @@ function Header() {
             
             <div className="header__right">
                 <div className="header__info">
-                    <Avatar />
+                    <Avatar src="https://lh3.googleusercontent.com/ogw/ADGmqu-tMGiUa6ofUSuJRP761hkHy1Vp4BOatd7-SFSt=s32-c-mo"/>
                     <h4>Ivan H</h4>
                 </div>
 
